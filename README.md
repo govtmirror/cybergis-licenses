@@ -13,11 +13,11 @@ The Humanitarian Information Unit through the [Imagery to the Crowd](https://hiu
 
 ## Licenses
 
-**All**: [NextView](#nextview), [MIT](#mit)
+**All**: [NextView](#nextview), [MIT](#mit), [Public Domain](#public-domain)
 
-**Code**: [MIT](#mit)
+**Code**: [MIT](#mit), [Public Domain](#public-domain)
 
-**Data**: Placeholder
+**Data**: [Public Domain](#public-domain)
 
 **Imagery**: [NextView](#nextview)
 
@@ -35,7 +35,15 @@ The Humanitarian Information Unit through the [Imagery to the Crowd](https://hiu
 
 **Links**: [Human](https://github.com/state-hiu/cybergis-licenses/blob/master/licenses/MIT-LICENSE-HUMAN.txt), [Raw](https://github.com/state-hiu/cybergis-licenses/blob/master/licenses/MIT-LICENSE-RAW.txt)
 
-**Used for**: [cybergis-examples](https://github.com/state-hiu/cybergis-client-examples), [cybergis-templates](https://github.com/state-hiu/cybergis-client-templates)
+**Used for**: [cybergis-client-examples](https://github.com/state-hiu/cybergis-client-examples), [cybergis-client-templates](https://github.com/state-hiu/cybergis-client-templates)
+
+#### Public Domain
+
+**Description**: A public domain license is used when projects has no dependencies or all dependencies are public domain, too.  This license is frequently used for APIs.
+
+**Links**: [Raw](https://github.com/state-hiu/cybergis-licenses/blob/master/licenses/PUBLICDOMAIN-LICENSE-RAW.txt)
+
+**Used for**: [cybergis-client-spec](https://github.com/state-hiu/cybergis-client-spec)
 
 ## Contributing
 
