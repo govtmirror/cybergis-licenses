@@ -25,7 +25,7 @@ The Humanitarian Information Unit through the [Imagery to the Crowd](https://hiu
 
 **Description**: The NextView license allows the Humanitarian Information Unit to support the creation of open data for humanitarian purposes with high-resolution commercial satellite imagery services with some restrictions.
 
-**Links**: [Human](https://github.com/state-hiu/cybergis-licenses/blob/master/licenses/NEXTVIEW-LICENSE-HUMAN.txt), [HOT](https://github.com/state-hiu/cybergis-licenses/blob/master/licenses/NEXTVIEW-LICENSE-HOT.txt)
+**Links**: [RAW](https://github.com/state-hiu/cybergis-licenses/blob/master/licenses/NEXTVIEW-LICENSE-RAW.txt), [HOT](https://github.com/state-hiu/cybergis-licenses/blob/master/licenses/NEXTVIEW-LICENSE-HOT.txt)
 
 **Used for**: High-Resolution Commercial Satellite Imagery Services for the Imagery to the Crowd Initiative (ITTC). 
 
@@ -33,7 +33,7 @@ The Humanitarian Information Unit through the [Imagery to the Crowd](https://hiu
 
 **Description**: The MIT license allows the Humanitarian Information Unit to release open source code while respecting the underlying licenses of project dependencies.
 
-**Links**: [Human](https://github.com/state-hiu/cybergis-licenses/blob/master/licenses/MIT-LICENSE-HUMAN.txt), [Raw](https://github.com/state-hiu/cybergis-licenses/blob/master/licenses/MIT-LICENSE-RAW.txt)
+**Links**: [Raw](https://github.com/state-hiu/cybergis-licenses/blob/master/licenses/MIT-LICENSE-RAW.txt), [Human](https://github.com/state-hiu/cybergis-licenses/blob/master/licenses/MIT-LICENSE-HUMAN.txt)
 
 **Used for**: [cybergis-client-examples](https://github.com/state-hiu/cybergis-client-examples), [cybergis-client-templates](https://github.com/state-hiu/cybergis-client-templates)
 
