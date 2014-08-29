@@ -12,7 +12,7 @@ The Humanitarian Information Unit has been developing a sophisticated geographic
 The Rapid Opensource Geospatial User-Driven Enterprise (ROGUE) Joint Capabilities Technology Demonstration (JCTD) is a two-year research & development project developing the technology for distributed geographic data creation and synchronization in a disconnected environement.  This new technology taken altogether is referred to as GeoSHAPE.  See [http://geoshape.org](http://geoshape.org) for more information.  HIU is leveraging the technology developed through ROGUE to build out the CyberGIS into a robust globally distributed infrastruture.
 
 ### Imagery to the Crowd
-The Humanitarian Information Unit through the [Imagery to the Crowd](https://hiu.state.gov/ittc/ittc.aspx) initiative provides high-resolution commercial satellite imagery services for humanitarian purposes.  Additionally, HIU is working to grow the base of the volunteers contributing open data to OpenStreetMap through the [Mapgive](http://mapgive.state.gov/) campagin.
+The Humanitarian Information Unit through the [Imagery to the Crowd](https://hiu.state.gov/ittc/ittc.aspx) initiative provides high-resolution commercial satellite imagery services for humanitarian purposes.  Additionally, HIU is working to grow the base of the volunteers contributing open data to OpenStreetMap through the [MapGive](http://mapgive.state.gov/) campagin.
 
 ## Licenses
 
